@@ -8,4 +8,4 @@
 
 ## Chapter's breakdown
 
-* [Chapter-1](https://github.com/The-GUY-2024/FlowCharting.git)
+* [Chapter-1](https://github.com/The-GUY-2024/FlowCharting/tree/main/Chapter-1)
